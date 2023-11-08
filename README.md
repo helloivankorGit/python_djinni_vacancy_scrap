@@ -1,1 +1,1 @@
-# python_djinni_vacancy_scrap
+Python script for vacancy scrapping
