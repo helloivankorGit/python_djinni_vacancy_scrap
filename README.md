@@ -1,1 +1,1 @@
-Python script for vacancy scrapping
+Python script for vacancy scrapping on djinni website
