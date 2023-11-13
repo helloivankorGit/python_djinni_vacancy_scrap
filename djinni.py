@@ -23,7 +23,7 @@ HEADLESS_MODE = True  # Set to False if you want to see the browser
 # Initialize WebDriver with Headless Option
 options = webdriver.ChromeOptions()
 options.headless = HEADLESS_MODE
-browser = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
+browser = webdriver.Chrome(options=options)
 
 def login_to_djinni():
     # Function to log in to the website
